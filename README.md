@@ -74,7 +74,7 @@ banking-dashboard/
 
 ## 🧑‍💼 Author
 
-Vaishnavi Patil 
+Vaishnavi Patil
 www.linkedin.com/in/vaishnavi-patil-60a328312  
 vaishnavidp17402@gmail.com
 
