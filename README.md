@@ -37,11 +37,10 @@ Includes:
 
 ## 🖼️ Screenshots
 
-| Summary View | Loan Analysis | Deposit Analysis |
-|--------------|----------------|------------------|
+
 | [Summary]((https://github.com/user-attachments/assets/77f76e5e-4255-432d-927b-2ae9182217ea)) 
 | [Loan]((https://github.com/user-attachments/assets/a06adf83-f7df-473c-a46c-09d62aa7e885)) 
-| [Deposit]([Screenshot (12)](https://github.com/user-attachments/assets/981346a1-f234-451e-805c-c2bb67d6925e)) 
+| [Deposit](](https://github.com/user-attachments/assets/981346a1-f234-451e-805c-c2bb67d6925e)) 
 | [Overview]((https://github.com/user-attachments/assets/6fef810e-07ce-44e2-bc1f-664368442e97)) 
 
 
