@@ -1,4 +1,4 @@
-![Screenshot (12)](https://github.com/user-attachments/assets/d204c509-e4bb-46e0-b397-f9c80011a6b2)# bank-customer-analytics
+# bank-customer-analytics
 This project showcases a comprehensive and interactive Banking Dashboard developed for analyzing and visualizing key financial and customer data. It helps users monitor performance indicators such as client demographics, loan distributions, account trends, and deposit analytics in a clear and actionable format.
 
 # 🏦 Power BI Banking Dashboard
@@ -38,10 +38,10 @@ Includes:
 ## 🖼️ Screenshots
 
 
-| [Summary]((https://github.com/user-attachments/assets/77f76e5e-4255-432d-927b-2ae9182217ea)) 
-| [Loan]((https://github.com/user-attachments/assets/a06adf83-f7df-473c-a46c-09d62aa7e885)) 
-| [Deposit](](https://github.com/user-attachments/assets/981346a1-f234-451e-805c-c2bb67d6925e)) 
-| [Overview]((https://github.com/user-attachments/assets/6fef810e-07ce-44e2-bc1f-664368442e97)) 
+ [Summary](https://github.com/user-attachments/assets/77f76e5e-4255-432d-927b-2ae9182217ea)
+ [Loan](https://github.com/user-attachments/assets/a06adf83-f7df-473c-a46c-09d62aa7e885)
+ [Deposit](https://github.com/user-attachments/assets/981346a1-f234-451e-805c-c2bb67d6925e)
+ [Overview](https://github.com/user-attachments/assets/6fef810e-07ce-44e2-bc1f-664368442e97) 
 
 
 
